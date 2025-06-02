@@ -16,7 +16,7 @@ Make sure you have installed the following packages in your system:
 
 1. Clone this repo
 ```
-git clone https://github.com/p3nguin-kun/pragmatasevka
+git clone https://github.com/stdrice/pragmatasevka
 ```
 
 2. Go to Pragmatasevka dir
