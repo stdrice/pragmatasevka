@@ -3,7 +3,7 @@ Iosevka + SS08 + my modification = Pragmata Pro (clone)
 
 # Install
 You can download the latest version of Pragmatasevka from the releases page here: 
-https://github.com/p3nguin-kun/pragmatasevka/releases/latest
+https://github.com/stdrice/pragmatasevka/releases/latest
 
 or [build it yourself](#build)
 
